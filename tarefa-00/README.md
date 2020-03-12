@@ -5,4 +5,4 @@ Olá. Seja bem-vindo.
 Um texto qualquer
 só que dentro de um bloco
 ```
-***:D***
+**:D**
